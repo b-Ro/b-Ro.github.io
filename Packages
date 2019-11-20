@@ -2,7 +2,7 @@ Package: com.iambrianrose.nomnom
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: b___Ro <giantwaffle@gmail.com>
-Depends: Snowboard, etc.
+Depends:
 Filename: /com.iambrianrose.nomnom
 Size: 8258
 MD5sum: 27183802640043de17dd3a372d10fd93
